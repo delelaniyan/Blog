@@ -1,1 +1,1 @@
-(Read me my dudes.)[https://delelaniyan.github.io/Blog/blog.html]
+[Read me my dudes.](https://delelaniyan.github.io/Blog/blog.html)
